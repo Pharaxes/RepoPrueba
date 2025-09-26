@@ -7,6 +7,6 @@ Algoritmo SumaDeDosNumeros
 	
 	resultado=a+b
 	
-	Imprimir 'la suma es' resultado
+	Imprimir 'la suma es ' resultado
 	
 FinAlgoritmo
